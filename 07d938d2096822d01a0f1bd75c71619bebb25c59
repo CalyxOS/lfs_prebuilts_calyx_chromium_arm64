@@ -16,6 +16,24 @@
       "message": "Forgot to test this, will do",
       "revId": "07d938d2096822d01a0f1bd75c71619bebb25c59",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a237869_75be0cf7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-08-06T17:22:01Z",
+      "side": 1,
+      "message": "Tests:\n- WebView: WebGL (Meteocool), WebRTC (WebRTCCheck)\n- Ad block (d3ward)\n- Permissions lifetime (browserleaks.com/geo)\n- Privacy and security settings page\n- About Chromium page, CalyxOS Chromium section\n- `atest --no-metrics CtsHostsideWebViewTests CtsWebkitTestCases --retry-any-failure 3`\n\nEverything as expected, and all atest pass except `testManagedProfile`, but that\u0027s expected with the test device I had available, so it\u0027s all good. (Ordinarily I would delete the managed profile and try again but I can\u0027t right now.)",
+      "parentUuid": "d065f62d_cb2a300c",
+      "revId": "07d938d2096822d01a0f1bd75c71619bebb25c59",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
