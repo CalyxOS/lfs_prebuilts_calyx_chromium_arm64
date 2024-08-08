@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "58698ec2_471364a8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-08-08T23:12:19Z",
+      "side": 1,
+      "message": "These patchsets were for the user in our dev chat who is getting Chromium crashes starting with I think 127. Tried reverting a few things based on the symbolized stack traces they shared. Neither of these helped. They are going to try building Chromium on their own to figure it out.",
+      "revId": "ca70fc435bd1039eb5a168bc20cb992770ce892d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
