@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0167dfc0_028fcb80",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-08-21T12:51:33Z",
+      "side": 1,
+      "message": "Passes smoke test, EEA system language works on first start, Settings screen works. Let me know if I should test more.",
+      "revId": "ec0e4559aca83a261ffb0ff44dbfa040180f02ac",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
