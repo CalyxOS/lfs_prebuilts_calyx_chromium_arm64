@@ -16,6 +16,24 @@
       "message": "Passes smoke test, EEA system language works on first start, Settings screen works. Let me know if I should test more.",
       "revId": "ec0e4559aca83a261ffb0ff44dbfa040180f02ac",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2ea1a341_04efbbae",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-08-21T13:10:53Z",
+      "side": 1,
+      "message": "Tests:\n- WebView: WebGL (Meteocool), WebRTC (WebRTCCheck)\n- Ad block (d3ward)\n- Permissions lifetime (browserleaks.com/geo)\n- Privacy and security settings page\n- About Chromium page, CalyxOS Chromium section\n- `atest --no-metrics CtsHostsideWebViewTests CtsWebkitTestCases --retry-any-failure 3`\n\nAll tests pass.",
+      "parentUuid": "0167dfc0_028fcb80",
+      "revId": "ec0e4559aca83a261ffb0ff44dbfa040180f02ac",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
