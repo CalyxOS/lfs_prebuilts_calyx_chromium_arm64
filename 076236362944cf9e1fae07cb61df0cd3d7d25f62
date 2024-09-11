@@ -16,6 +16,23 @@
       "message": "Not tested, unblocks compilation failure caused by Android.mk directory denylist",
       "revId": "076236362944cf9e1fae07cb61df0cd3d7d25f62",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d6ae694_cdd946a5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-09-11T17:54:25Z",
+      "side": 1,
+      "message": "Android.bp does not support conditionals like `ifeq ($(TARGET_ARCH),arm64)`\n\nAdditionally not sure how to replace `LOCAL_MODULE_TARGET_ARCH :\u003d arm64` (or if it\u0027s necessary)",
+      "revId": "076236362944cf9e1fae07cb61df0cd3d7d25f62",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
