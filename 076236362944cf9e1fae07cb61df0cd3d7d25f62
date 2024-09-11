@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d9b01150_edb9bfce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2024-09-11T17:47:01Z",
+      "side": 1,
+      "message": "Not tested, unblocks compilation failure caused by Android.mk directory denylist",
+      "revId": "076236362944cf9e1fae07cb61df0cd3d7d25f62",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
