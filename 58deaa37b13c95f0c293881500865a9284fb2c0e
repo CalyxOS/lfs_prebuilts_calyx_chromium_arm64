@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "22dec30f_7888850e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-24T11:41:58Z",
+      "side": 1,
+      "message": "Tests:\n- WebView: WebGL (Meteocool), WebRTC (WebRTCCheck)\n- Ad block (d3ward)\n- Permissions lifetime (browserleaks.com/geo)\n- Privacy and security settings page\n- About Chromium page, CalyxOS Chromium section\n\nAll tests pass.\n\nSkipped:\n- `atest --no-metrics CtsHostsideWebViewTests CtsWebkitTestCases --retry-any-failure 3`",
+      "revId": "58deaa37b13c95f0c293881500865a9284fb2c0e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
