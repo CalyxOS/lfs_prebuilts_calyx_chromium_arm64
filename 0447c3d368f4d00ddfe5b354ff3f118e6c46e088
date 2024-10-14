@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9457aeb0_d44be8ad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-10-14T17:41:54Z",
+      "side": 1,
+      "message": "I think the new Android.bp should live outside arch-specific repos and install the proper apk for the supported archs (since soong supports that)",
+      "revId": "0447c3d368f4d00ddfe5b354ff3f118e6c46e088",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
