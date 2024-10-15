@@ -16,6 +16,24 @@
       "message": "I think the new Android.bp should live outside arch-specific repos and install the proper apk for the supported archs (since soong supports that)",
       "revId": "0447c3d368f4d00ddfe5b354ff3f118e6c46e088",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8484de9c_fe969f78",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-10-15T12:54:04Z",
+      "side": 1,
+      "message": "We can do that later.\n\n1. We only have arch specific repos atm\n2. We only build arm64 regularly, x86_64 is only updated occasionally as needed.",
+      "parentUuid": "9457aeb0_d44be8ad",
+      "revId": "0447c3d368f4d00ddfe5b354ff3f118e6c46e088",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
