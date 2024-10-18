@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a35349a2_32848456",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-10-18T18:57:03Z",
+      "side": 1,
+      "message": "I typically re-run these after prod build for every major version.\n\nFor simple re-build minor versions, I only do a smoke test, sometimes atest.",
+      "revId": "00415a6ab2a9a0906823cbae7606f3548a353bae",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
