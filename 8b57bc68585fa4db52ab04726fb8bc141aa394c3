@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "46c41ebe_0965a92a",
+        "filename": "Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-12-24T13:22:32Z",
+      "side": 0,
+      "message": "This is missing in the bp, which may cause issues when we add in the x64 version later (used by emulator)\n\nNot present currently so not a blocker, but will need fixing.",
+      "revId": "8b57bc68585fa4db52ab04726fb8bc141aa394c3",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
