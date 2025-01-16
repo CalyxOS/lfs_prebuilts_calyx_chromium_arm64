@@ -8,8 +8,9 @@ android_app_import {
     dex_preopt: {
         enabled: false,
     },
-    apk: "TrichromeLibrary6432.apk",
 
+    apk: "TrichromeLibrary6432.apk",
+    compress_apk: true,
 }
 
 android_app_import {
@@ -27,6 +28,7 @@ android_app_import {
     overrides: ["webview"],
 
     apk: "TrichromeWebView6432.apk",
+    compress_apk: true,
 }
 
 android_app_import {
@@ -42,4 +44,5 @@ android_app_import {
     ],
 
     apk: "universal.apk",
+    compress_apk: true,
 }
