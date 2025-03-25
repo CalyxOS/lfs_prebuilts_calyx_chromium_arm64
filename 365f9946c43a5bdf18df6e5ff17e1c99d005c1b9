@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d3501935_420a1285",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-03-25T19:19:59Z",
+      "side": 1,
+      "message": "Untested, directly tried 134.0.6998.135, which works. But since we had this, leaving it here, just in case.",
+      "revId": "365f9946c43a5bdf18df6e5ff17e1c99d005c1b9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
