@@ -1,3 +1,5 @@
+<<<<<<< PATCH SET (0bd7e3 Remove single-platform blueprint for Chromium)
+=======
 android_app_import {
     name: "TrichromeLibrary",
 
@@ -44,3 +46,4 @@ android_app_import {
 
     apk: "universal.apk",
 }
+>>>>>>> BASE      (1dbf23 135.0.7049.38)
