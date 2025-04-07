@@ -1,0 +1,139 @@
+2025-04-08 00:19:10.418 | DEBUG    | androguard.cli.cli:apkid:346 - APKID
+2025-04-08 00:19:10.418 | DEBUG    | androguard.core.apk:get_apkid:2217 - GET_APKID
+2025-04-08 00:19:10.421 | DEBUG    | androguard.core.axml:__init__:396 - AXMLParser
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:__init__:421 - FIRST HEADER <ARSCHeader idx='0x00000000' type='3' header_size='8' size='13104'>
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:__init__:461 - STRING_POOL <ARSCHeader idx='0x00000008' type='1' header_size='28' size='6160'>
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:is_valid:488 - True
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:_do_next:506 - M_EVENT -1
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:_do_next:522 - NEXT HEADER <ARSCHeader idx='0x00001818' type='384' header_size='8' size='116'>
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:_do_next:531 - AXML contains a RESOURCE MAP
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:_do_next:522 - NEXT HEADER <ARSCHeader idx='0x0000188c' type='258' header_size='16' size='176'>
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeName:840 - 0
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 0
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 0
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeName:840 - 1
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 1
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 1
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 1
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeName:840 - 2
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 2
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 2
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeName:840 - 3
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 3
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 3
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 3
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeName:840 - 4
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 4
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 4
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 4
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeName:840 - 5
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 5
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 5
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeName:840 - 6
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 6
+2025-04-08 00:19:10.422 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 6
+2025-04-08 00:19:10.423 | DEBUG    | androguard.core.apk:get_apkid:2217 - GET_APKID
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:__init__:396 - AXMLParser
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:__init__:421 - FIRST HEADER <ARSCHeader idx='0x00000000' type='3' header_size='8' size='2044'>
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:__init__:461 - STRING_POOL <ARSCHeader idx='0x00000008' type='1' header_size='28' size='1128'>
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:is_valid:488 - True
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:_do_next:506 - M_EVENT -1
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:_do_next:522 - NEXT HEADER <ARSCHeader idx='0x00000470' type='384' header_size='8' size='68'>
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:_do_next:531 - AXML contains a RESOURCE MAP
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:_do_next:522 - NEXT HEADER <ARSCHeader idx='0x000004b4' type='258' header_size='16' size='176'>
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeName:840 - 0
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 0
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 0
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeName:840 - 1
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 1
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 1
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 1
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeName:840 - 2
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 2
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 2
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeName:840 - 3
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 3
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 3
+2025-04-08 00:19:10.444 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 3
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeName:840 - 4
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 4
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 4
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 4
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeName:840 - 5
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 5
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 5
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeName:840 - 6
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 6
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 6
+2025-04-08 00:19:10.445 | DEBUG    | androguard.core.apk:get_apkid:2217 - GET_APKID
+2025-04-08 00:19:10.458 | DEBUG    | androguard.core.axml:__init__:396 - AXMLParser
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:__init__:421 - FIRST HEADER <ARSCHeader idx='0x00000000' type='3' header_size='8' size='27724'>
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:__init__:461 - STRING_POOL <ARSCHeader idx='0x00000008' type='1' header_size='28' size='14040'>
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:is_valid:488 - True
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:_do_next:506 - M_EVENT -1
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:_do_next:522 - NEXT HEADER <ARSCHeader idx='0x000036e0' type='384' header_size='8' size='136'>
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:_do_next:531 - AXML contains a RESOURCE MAP
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:_do_next:522 - NEXT HEADER <ARSCHeader idx='0x00003768' type='258' header_size='16' size='196'>
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeName:840 - 0
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 0
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 0
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeName:840 - 1
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 1
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 1
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 1
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeName:840 - 2
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 2
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 2
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeName:840 - 3
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 3
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 3
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeName:840 - 4
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 4
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 4
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 4
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeName:840 - 5
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 5
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 5
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 5
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeName:840 - 6
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 6
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 6
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeName:840 - 7
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 7
+2025-04-08 00:19:10.459 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 7
+2025-04-08 00:19:10.460 | DEBUG    | androguard.core.apk:get_apkid:2217 - GET_APKID
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:__init__:396 - AXMLParser
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:__init__:421 - FIRST HEADER <ARSCHeader idx='0x00000000' type='3' header_size='8' size='97268'>
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:__init__:461 - STRING_POOL <ARSCHeader idx='0x00000008' type='1' header_size='28' size='44080'>
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:is_valid:488 - True
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:_do_next:506 - M_EVENT -1
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:_do_next:522 - NEXT HEADER <ARSCHeader idx='0x0000ac38' type='384' header_size='8' size='280'>
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:_do_next:531 - AXML contains a RESOURCE MAP
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:_do_next:522 - NEXT HEADER <ARSCHeader idx='0x0000ad50' type='258' header_size='16' size='196'>
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:getAttributeName:840 - 0
+2025-04-08 00:19:10.480 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 0
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 0
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeName:840 - 1
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 1
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 1
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 1
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeName:840 - 2
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 2
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 2
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeName:840 - 3
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 3
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 3
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeName:840 - 4
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 4
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 4
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 4
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeName:840 - 5
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 5
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 5
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValue:891 - 5
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeName:840 - 6
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 6
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 6
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeName:840 - 7
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueType:866 - 7
+2025-04-08 00:19:10.481 | DEBUG    | androguard.core.axml:getAttributeValueData:877 - 7
