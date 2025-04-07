@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b08b2841_732c87ca",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-04-07T22:54:26Z",
+      "side": 1,
+      "message": "\u003e Tests:\n\u003e - [x] WebView: WebGL (Meteocool), WebRTC (WebRTCCheck)\n\u003e   - Install these apps and see if they work. For meteocool, it should load the map.\n\u003e     For WebRTCCheck, do the P2P Link and all, make sure the camera works on left and right.\n\u003e - [x] Ad block\n\u003e   - https://superadblocktest.com/, run the test, should get 70+%\n\u003e - [x] Permissions lifetime (browserleaks.com/geo)\n\u003e   - Just try a couple, like one time deny/allow, and remember until closed. Make sure they work.\n\u003e - [x] Privacy and security settings page\n\u003e   - Does it crash? Does it look normal enough?\n\u003e - [x] About Chromium page, CalyxOS Chromium section\n\u003e   - Does it crash? Does it have attribution?\n\u003e - [x] `atest --no-metrics CtsHostsideWebViewTests CtsWebkitTestCases --retry-any-failure 3`\n\u003e   - This requires Location turned on, and Stay Awake turned on in Developer Options.\n\u003e - [x] No crashing on first launch or subsequent launches:\n\u003e     - [x] Fresh install.\n\u003e     - [x] Upgrade.\n\u003e \n\u003e All tests pass.",
+      "revId": "d70c7d3c474cdbee8cf319119a6b7050b4bb16af",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
