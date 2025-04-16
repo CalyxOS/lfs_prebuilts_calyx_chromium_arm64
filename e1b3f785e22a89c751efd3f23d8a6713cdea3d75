@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "23573f9c_5796d9ce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2025-04-16T11:29:00Z",
+      "side": 1,
+      "message": "This change seems interesting. I haven\u0027t tried it but I see it was marked as not working. What went wrong? Could it be salvaged?",
+      "revId": "e1b3f785e22a89c751efd3f23d8a6713cdea3d75",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
