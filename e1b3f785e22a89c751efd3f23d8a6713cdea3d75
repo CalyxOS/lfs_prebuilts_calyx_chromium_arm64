@@ -16,6 +16,24 @@
       "message": "This change seems interesting. I haven\u0027t tried it but I see it was marked as not working. What went wrong? Could it be salvaged?",
       "revId": "e1b3f785e22a89c751efd3f23d8a6713cdea3d75",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "03a99101_c0aef862",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2025-04-16T11:39:46Z",
+      "side": 1,
+      "message": "The apps aren\u0027t recognized at all by the system. You\u0027d have to check what stock does to make it work",
+      "parentUuid": "23573f9c_5796d9ce",
+      "revId": "e1b3f785e22a89c751efd3f23d8a6713cdea3d75",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
