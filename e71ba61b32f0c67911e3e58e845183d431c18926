@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "62c148df_a1c985ba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-05-28T14:46:15Z",
+      "side": 1,
+      "message": "\u003e Tests (all on arm64 lynx):\n\u003e - [X] WebView: WebGL (Meteocool), WebRTC (WebRTCCheck)\n\u003e   - Install these apps and see if they work. For meteocool, it should load the map.\n\u003e     For WebRTCCheck, do the P2P Link and all, make sure the camera works on left and right.\n\u003e     Download WebRTCCheck from F-Droid directly to avoid \"incompatible\": https://f-droid.org/repo/timur.webrtc.check_10.apk\n\u003e - [X] Ad block\n\u003e   - https://superadblocktest.com/, run the test, should get 70+%\n\u003e - [X] Permissions lifetime (browserleaks.com/geo)\n\u003e   - Just try a couple, like one time deny/allow, and remember until closed. Make sure they work.\n\u003e - [X] Privacy and security settings page\n\u003e   - Does it crash? Does it look normal enough?\n\u003e - [X] About Chromium page, CalyxOS Chromium section\n\u003e   - Does it crash? Does it have attribution?\n\u003e - [X] `atest --no-metrics CtsHostsideWebViewTests CtsWebkitTestCases --retry-any-failure 3`\n\u003e   - This requires Location turned on, and Stay Awake turned on in Developer Options.\n\u003e - [X] No crashing on first launch or subsequent launches:\n\u003e     - [X] Fresh install.\n\u003e     - [ ] Upgrade.\n\u003e \n\u003e All tests pass.",
+      "revId": "e71ba61b32f0c67911e3e58e845183d431c18926",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
